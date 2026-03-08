@@ -3,7 +3,7 @@ Este repositorio está destinado a la entrega de las tareas del equipo azul.
 
 Integrantes del equipo: 
 
-- Hernández Sandobal Kevin Odin.
+- Hernández Sandoval Kevin Odin.
 - López Medina Andrés Alejandro.
 - Murguia Cazares César.
 - Nonato Bazan Alberto.
