@@ -1,5 +1,4 @@
 # tareasEquipoAzul_PPyC
-Este repositorio está destinado a la entrega de las tareas del equipo azul. 
 
 Integrantes del equipo: 
 
