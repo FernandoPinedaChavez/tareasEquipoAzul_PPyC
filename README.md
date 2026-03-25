@@ -8,4 +8,4 @@ Integrantes del equipo:
 - Nonato Bazan Alberto.
 - Pérez Estrada Luis Ángel.
 - Pineda Chávez Fernando.
-
+- Pineda Ortega Daniel
